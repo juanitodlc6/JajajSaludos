@@ -21,5 +21,10 @@ namespace Concection
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            int holis=0;
+        }
     }
 }
