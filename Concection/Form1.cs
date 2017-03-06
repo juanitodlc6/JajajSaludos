@@ -26,6 +26,7 @@ namespace Concection
         {
             int holis=0;
             holis = 0;
+            holis = holis * 2;
         }
     }
 }
